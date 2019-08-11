@@ -1,0 +1,9 @@
+name: "Foodieglobetrotter"
+output_dir: "."
+navbar:
+  title: "Foodieglobetrotter"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
